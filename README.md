@@ -15,14 +15,13 @@ npm run serve
 npm run build
 ```
 ### Run json banco de dados
-'''
-
+```
 npm run backend
-'''
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Desenvido por
+### Desenvolvido por
 
 Fabrício Preisler
