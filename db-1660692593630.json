@@ -1,0 +1,140 @@
+{
+  "roupas": {
+    "blusas": [
+      {
+        "id": 1,
+        "tipo": "Blusa social listrada"
+      },
+      {
+        "id": 2,
+        "tipo": "Blusa social de linho"
+      },
+      {
+        "id": 3,
+        "tipo": "Blusa social lisa"
+      },
+      {
+        "id": 4,
+        "tipo": "Blusa de manga"
+      }
+    ],
+    "sobreblusas": [
+      {
+        "id": 1,
+        "tipo": "Terno"
+      },
+      {
+        "id": 2,
+        "tipo": "Blaser"
+      },
+      {
+        "id": 3,
+        "tipo": "Fraque"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Gravata"
+      },
+      {
+        "id": 2,
+        "tipo": "Abotoaduras"
+      },
+      {
+        "id": 3,
+        "tipo": "Sapatos Sociais"
+      },
+      {
+        "id": 4,
+        "tipo": "Chapeu"
+      },
+      {
+        "id": 4,
+        "tipo": "Gravata Borboleta"
+      },
+      {
+        "id": 4,
+        "tipo": "Faixa Smoking"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Alugado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em preparação"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "conjuntos": [
+    {
+      "nome": "zé bonitinho",
+      "sobreblusa": "Blaser",
+      "blusa": "Blusa social listrada",
+      "opcionais": [
+        "Gravata",
+        "Sapatos Sociais"
+      ],
+      "status": "Solicitado",
+      "id": 1
+    },
+    {
+      "nome": "Raimundo ",
+      "sobreblusa": "Blaser",
+      "blusa": "Blusa social lisa",
+      "opcionais": [
+        "Gravata",
+        "Abotoaduras",
+        "Sapatos Sociais",
+        "Chapeu",
+        "Faixa Smoking"
+      ],
+      "status": "Finalizado",
+      "id": 2
+    },
+    {
+      "nome": "Outra pessoa",
+      "sobreblusa": "Fraque",
+      "blusa": "Blusa social lisa",
+      "opcionais": [
+        "Gravata",
+        "Sapatos Sociais",
+        "Abotoaduras",
+        "Chapeu",
+        "Faixa Smoking"
+      ],
+      "status": "Em preparação",
+      "id": 3
+    },
+    {
+      "nome": "Leonardo Davinci",
+      "sobreblusa": "Blaser",
+      "blusa": "Blusa de manga",
+      "opcionais": [
+        "Abotoaduras",
+        "Gravata",
+        "Sapatos Sociais",
+        "Faixa Smoking"
+      ],
+      "status": "Em preparação",
+      "id": 4
+    },
+    {
+      "nome": "Bruce Lee",
+      "sobreblusa": "Fraque",
+      "blusa": "Blusa social lisa",
+      "opcionais": [
+        "Gravata"
+      ],
+      "status": "Solicitado",
+      "id": 5
+    }
+  ]
+}
